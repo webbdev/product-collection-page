@@ -24,7 +24,7 @@ cd product-collection-page
 - Use the sidebar options to sort or filter products based on your preferences.
 - Navigate through the pages using the pagination controls to explore all available products.
 
-If you want to make changes, you need to install dependencies (Tailwind) first:
+If you want to make changes in the project, you need to install dependencies (Tailwind) first:
 ```
 npm install
 ```
