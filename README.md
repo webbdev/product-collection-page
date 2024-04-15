@@ -9,9 +9,15 @@ This technical assessment project is a responsive product collection page templa
 **Pagination:** To enhance usability, pagination is implemented to manage large datasets efficiently.
 
 ## How to Run
-1. Clone the repository: git clone https://github.com/webbdev/product-collection-page.git
-2. Navigate to the project directory: cd product-collection-page
-3. Open index.html in your web browser to view the product collection page.
+1. Clone the repository:
+```
+git clone https://github.com/webbdev/product-collection-page.git
+```
+3. Navigate to the project directory:
+```
+cd product-collection-page
+```
+4. Open index.html in your web browser to view the product collection page.
 
 ## Technologies Used
 1. HTML
