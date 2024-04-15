@@ -1,0 +1,35 @@
+/* accordion */
+.accordion-btn {
+    color: rgba(0,0,0,1);
+    cursor: pointer;
+    padding: 14px 0;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 14px;
+    font-weight: bold;
+    transition: 0.4s;
+}
+  
+.active, .accordion-btn:hover {
+    color: rgba(0,0,0,0.6);
+}
+
+.accordion-btn:after {
+    content: '\002B';
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+}
+
+.active:after {
+    content: "\2212";
+}
+
+.accordion-panel {  
+    padding: 0;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
