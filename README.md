@@ -13,11 +13,11 @@ This technical assessment project is a responsive product collection page templa
 ```
 git clone https://github.com/webbdev/product-collection-page.git
 ```
-3. Navigate to the project directory:
+2. Navigate to the project directory:
 ```
 cd product-collection-page
 ```
-4. Open index.html in your web browser to view the product collection page.
+3. Open index.html in your web browser to view the product collection page.
 
 ## Usage
 - Upon opening the page, products are fetched from the API and displayed on the collection page.
