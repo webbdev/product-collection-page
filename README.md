@@ -3,10 +3,10 @@
 This technical assessment project is a responsive product collection page template that pulls in data from an API endpoint. It utilizes Vanilla JavaScript, HTML, CSS, and Tailwind CSS to create a dynamic and visually appealing user interface. The project also includes sidebar sort/filter functionality and pagination for an improved user experience.
 
 ## Features
-**Responsive Design:** The product collection page is designed to adapt to various screen sizes, ensuring a seamless experience across devices.
-**API Integration:** Data is fetched from the specified API endpoint to populate the product collection page with real-time information.
-**Sidebar Sort/Filter Functionality:** Users can sort or filter products based on different criteria using the sidebar options.
-**Pagination:** To enhance usability, pagination is implemented to manage large datasets efficiently.
+* **Responsive Design:** The product collection page is designed to adapt to various screen sizes, ensuring a seamless experience across devices.
+* **API Integration:** Data is fetched from the specified API endpoint to populate the product collection page with real-time information.
+* **Sidebar Sort/Filter Functionality:** Users can sort or filter products based on different criteria using the sidebar options.
+* **Pagination:** To enhance usability, pagination is implemented to manage large datasets efficiently.
 
 ## How to Run
 1. Clone the repository:
