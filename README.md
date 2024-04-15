@@ -19,12 +19,6 @@ cd product-collection-page
 ```
 4. Open index.html in your web browser to view the product collection page.
 
-## Technologies Used
-1. HTML
-2. CSS
-3. Vanilla JavaScript
-4. Tailwind CSS
-
 ## Usage
 - Upon opening the page, products are fetched from the API and displayed on the collection page.
 - Use the sidebar options to sort or filter products based on your preferences.
